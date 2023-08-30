@@ -20,7 +20,8 @@ Pasos para la realización de nuestra casa:
 
 4.	Después, dicidimos añadirle como detalle adicional una terraza en la parte delantera, esta cuenta con un techo recto y dos columnas a los lados, los cuales se realizaron de igual manera con las acciones antes mencionadas (mover y rotar).
 
-![1e306297-35fb-4ee8-aef7-887765fcfc28](https://github.com/krivera65/Excercise-01/assets/143332773/3ec9ab42-e6d3-4fb9-b65b-1fae4a0ae1a3),![13661965-a3ef-4a3c-8ca9-c427bbb6c2fb](https://github.com/Bloemlezing/Proyecto-1/assets/143332773/9863e4ad-7186-4a47-ad73-2bceb9ae44e4)
+![1e306297-35fb-4ee8-aef7-887765fcfc28](https://github.com/krivera65/Excercise-01/assets/143332773/3ec9ab42-e6d3-4fb9-b65b-1fae4a0ae1a3)
+![13661965-a3ef-4a3c-8ca9-c427bbb6c2fb](https://github.com/Bloemlezing/Proyecto-1/assets/143332773/9863e4ad-7186-4a47-ad73-2bceb9ae44e4)
 
 5.	Finalmente, se estuvo realizando el techo de la casa utilizando dos cubos en 3D. En los mismos, se utilizaron los comandos mover y rotar para que quedaran bien ubicados junto a las demás partes de la casa. Luego de culminar esta serie de pasos, se utilizó la escala para cotejar que todo estuviera en su debido sitio y de esta manera poder hacer los cambios finales para eventualmente incluir la versión completada de la casa.
 
